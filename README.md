@@ -21,7 +21,7 @@ The main difference between this tool and Beego is that this generator doesn't d
 #### Technical Notes : [Read More ](https://github.com/yvasiyarov/swagger/wiki/Technical-Notes)
 #### Known Limitations : [Read More ](https://github.com/yvasiyarov/swagger/wiki/Known-Limitations)
 
-<br>
+<br />
 #### Quick Start Guide
 
 
